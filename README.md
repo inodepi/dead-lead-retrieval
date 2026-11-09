@@ -10,6 +10,8 @@
 ![OpenRouter](https://img.shields.io/badge/llm-OpenRouter-6467F2)
 ![Human in the loop](https://img.shields.io/badge/review-human--in--the--loop-00B8D9)
 
+▶ **[Watch the 1:27 film →](https://potaterrr.github.io/projects/dead-lead-retrieval/)**
+
 ---
 
 ## Why this exists
